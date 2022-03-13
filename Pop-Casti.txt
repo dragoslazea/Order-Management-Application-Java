@@ -1,0 +1,16 @@
+Client Data
+-------------------------------------------------
+Name: Pop
+Address: Andrei
+E-mail: pop.andrei@example.com
+Age: 30
+
+Product Data
+-------------------------------------------------
+Name: Casti
+Price: 800.0
+Number of pieces: 4
+
+TOTAL VALUE:
+-------------------------------------------------
+3200.0

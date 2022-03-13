@@ -1,0 +1,16 @@
+Client Data
+-------------------------------------------------
+Name: Chirila Maria
+Address: Alba Iulia
+E-mail: mariachirila@yahoo.com
+Age: 35
+
+Product Data
+-------------------------------------------------
+Name: Laptop
+Price: 3450.0
+Number of pieces: 2
+
+TOTAL VALUE:
+-------------------------------------------------
+6900.0

@@ -1,0 +1,31 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+left to right direction
+rectangle OrderManager {
+(Introducerea unui nou client) as UC1
+(Actualzarea unui client existent) as UC2
+(Ștergerea unui client existent) as UC3
+(Introducerea unui nou produs) as UC4
+(Actualizarea unui produs existent) as UC5
+(Ștergerea unui produs existent) as UC6
+(Selectarea unui client existent) as UC7
+(Selectarea unui produs existent) as UC8
+(Introducerea cantității dorite) as UC9
+(Plasarea unei comenzi) as UC10
+}
+actor Utilzatorul as u
+UC10 ..> UC7 : include
+UC10 ..> UC8 : include
+UC10 ..> UC9 : include
+
+u -> UC1
+u -> UC2
+u -> UC3
+u -> UC4
+u -> UC5
+u -> UC6
+u -> UC10
+
+
+
+@enduml

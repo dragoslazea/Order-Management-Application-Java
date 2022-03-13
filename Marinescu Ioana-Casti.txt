@@ -1,0 +1,16 @@
+Client Data
+-------------------------------------------------
+Name: Marinescu Ioana
+Address: Timisoara
+E-mail: ioanamarinescu@gmail.com
+Age: 35
+
+Product Data
+-------------------------------------------------
+Name: Casti
+Price: 800.0
+Number of pieces: 4
+
+TOTAL VALUE:
+-------------------------------------------------
+3200.0

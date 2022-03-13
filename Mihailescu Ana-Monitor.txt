@@ -1,0 +1,16 @@
+Client Data
+-------------------------------------------------
+Name: Mihailescu Ana
+Address: Craiova
+E-mail: anamihailescu@yahoo.com
+Age: 40
+
+Product Data
+-------------------------------------------------
+Name: Monitor
+Price: 3000.0
+Number of pieces: 0
+
+TOTAL VALUE:
+-------------------------------------------------
+0.0

@@ -1,0 +1,16 @@
+Client Data
+-------------------------------------------------
+Name: Muresan Mihaela
+Address: Cluj Napoca
+E-mail: mihaelamuresan@gmail.com
+Age: 40
+
+Product Data
+-------------------------------------------------
+Name: Tastatura
+Price: 850.0
+Number of pieces: 3
+
+TOTAL VALUE:
+-------------------------------------------------
+2550.0

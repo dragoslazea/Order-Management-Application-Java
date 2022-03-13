@@ -1,0 +1,16 @@
+Client Data
+-------------------------------------------------
+Name: Popescu Mihai
+Address: Cluj Napoca
+E-mail: mihaipopescu@yahoo.com
+Age: 21
+
+Product Data
+-------------------------------------------------
+Name: Telefon mobil
+Price: 4000.0
+Number of pieces: 3
+
+TOTAL VALUE:
+-------------------------------------------------
+12000.0

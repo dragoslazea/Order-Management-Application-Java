@@ -1,0 +1,16 @@
+Client Data
+-------------------------------------------------
+Name: Lazar
+Address: Adriana
+E-mail: adriana_lazar@yahoo.ro
+Age: 49
+
+Product Data
+-------------------------------------------------
+Name: Casti
+Price: 800.0
+Number of pieces: 2
+
+TOTAL VALUE:
+-------------------------------------------------
+1600.0

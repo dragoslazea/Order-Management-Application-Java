@@ -1,0 +1,16 @@
+Client Data
+-------------------------------------------------
+Name: Popovici Andreea
+Address: Alba iulia
+E-mail: andreea.popovici@gmail.com
+Age: 32
+
+Product Data
+-------------------------------------------------
+Name: Smartwatch
+Price: 2500.0
+Number of pieces: 3
+
+TOTAL VALUE:
+-------------------------------------------------
+7500.0
